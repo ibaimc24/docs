@@ -297,6 +297,11 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 El ataque consistió en robo de información personal de los trabajadores, robo de películas que fueron distribuidas antes de su estreno oficial y borrado de datos, entre otras cosas.
   * **Estrategia**: La instalación de un módulo capaz de restringir el acceso de cada empleado a la coleccion de datos estrictamente necesaria para desarrollar su trabajo, hubiera podido evitar que se comprometiesen cantidades tan grandes de datos. Ningún usuario del sistema tendría acceso simultaneo a datos tan dispares como pasaportes, o números de la seguridad social de empleados, listines telefónicos de actores, y guiones de películas en proceso de producción.
   * **Solución**: Una de las soluciones disponibles en el mercado es el [HRMS de Oracle](https://www.oracle.com/es/hrms/index.html), el cual permite establecer perfiles para los empleados para restringir el acceso a los datos a los que un determinado empleado no necesita acceder para el desempeño de sus funciones. Evitando así en cierta medida, la cantidad de datos que un empleado descontento o despistado podría comprometer.
+  
+* [Revenge Hacks Cost Former Employee 34 Months in Prison, $1.1 Million in Damages] (https://www.bleepingcomputer.com/news/security/revenge-hacks-cost-former-employee-34-months-in-prison-1-1-million-in-damages/)
+  * **Fuente**: Ibai Marcos
+  * **Descripción**: Brian P. Johnson, fue despedido de la compañía Georgia-Pacific en la que trabajaba como administrador de sistemas y especialista en IT en el año 2014. Desde entonces, Brian trato de robar y sabotear a la empresa durante dos semanas.
+  * **Estrategia**: Un control exhaustivo de empleados y ex-empleados en el sistema, así como un proceso crítico y secuencial de un proceso de baja en el sistema evitaria un descontrol de usuarios que hacen uso de él.
 
 **2015**
 
