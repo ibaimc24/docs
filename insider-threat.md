@@ -235,6 +235,13 @@ Wikipedia define [insider threat](https://en.wikipedia.org/wiki/Insider_threat) 
 
 * [Disgruntled worker who caused £175,000 damage to office by smashing up EVERY room with hammer and wrote 'gross misconduct' in blood on wall is jailed](http://www.dailymail.co.uk/news/article-2348230/Former-employee-jailed-revenge-attack-Bristol-Flying-Centre.html) (Fuente: Alejandro Gálvez)
 
+**2014**
+
+* [Revenge Hacks Cost Former Employee 34 Months in Prison, $1.1 Million in Damages](https://www.bleepingcomputer.com/news/security/revenge-hacks-cost-former-employee-34-months-in-prison-1-1-million-in-damages/)
+  * **Fuente**: Ibai Marcos
+  * **Descripción**: Un ex-empleado de Georgia-Pacific, empresa de la industria de Lignocelulosa, mantuvo sus cuentas de administrador tras ser despedido, y durante dos meses saboteó la produccion de la empresa probocando daños por valor de 1,1 millones de dolares.
+  * **Estrategia**: Para evitar accesos de ex-empleados, mantener un extricto proceso de altas y bajas de los empleados con el fin de controlar las cuentas de estos, y restringir los accesos seria de gran utilidad. Mantener el control de todas las cuentas activas, los usuarios activos y los accesos permitidos a cada uno, monitorizando cada uno de los accesos.
+  * **Solución**: Un SIEM como * [McAfee Enterprise Security Manager](https://www.mcafee.com/enterprise/es-es/products/enterprise-security-manager.html)
 
 
 **2015**
